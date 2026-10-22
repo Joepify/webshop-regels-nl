@@ -1,0 +1,26 @@
+{
+  "title": "Webshop-regels Nederland: checklist 2026",
+  "upload_type": "publication",
+  "description": "Dutch checklist of rules for webshops (KVK, withdrawal button, accessibility, GPSR, cookies, iDEAL|Wero) with official sources. Made by Joepify, Rotterdam: https://www.joepify.nl",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "webshop",
+    "e-commerce",
+    "Netherlands",
+    "compliance"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.joepify.nl",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ],
+  "publication_type": "other"
+}
